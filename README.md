@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Anthony Carayon
 
-<!--
-**antho8101/antho8101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Entrepreneur, inventor, and designer**, I am the CEO of **AC Global Group**. Passionate about innovation and knowledge sharing, I help entrepreneurs maximize their chances of success by sharing my experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 **My Companies & Projects**
+
+- **AC Global Group**: A holding company with businesses in **#Tech**, **#RealEstate**, and **#Investment**.
+- **AC Global Business & Marketing**: A subsidiary specializing in digital marketing and business creation from A to Z.
+- **VyNtr**: A super app for LinkedIn prospecting.
+- **WinBoostPro**: A Windows optimization software. [Project Link](https://winboostpro.com/)
+- **PenFlow Pro**: [Project Link](https://penflowpro.com)
+- **Easy Hajj-Umrah**: [Project Link](#)
+
+---
+
+### 📚 **Publications**
+
+In 2023, I published my third book, **"€25,000,000 in 11 Days"**, where I share my entrepreneurial journey. [Available on Amazon](https://www.amazon.fr/dp/B0CGGKBKN9)
+
+---
+
+### 🎓 **Courses & Training**
+
+**"28 Days to Create & Fund a €10,000,000 Project"**: A training program designed to turn your idea into an investor-ready proposal—quickly and effectively. *Coming soon.*
+
+---
+
+### 💼 **Consulting & Coaching**
+
+Do you have a project or an idea? Book a **30-minute strategy call** to discuss and get expert insights. [Schedule a call](https://calendly.com/bettercallantho/30min?month=2025-02)
+
+---
+
+### 📫 **Connect with Me**
+
+- **LinkedIn**: [Anthony Carayon](https://www.linkedin.com/in/anthony-carayon/)
+- **Figma**: [My Profile](https://figma.com)
+
+---
+
+*Made with ❤️ by Anthony Carayon in 2023.* If you want an outstanding website, [contact my company](https://acglobalbusiness.com).
