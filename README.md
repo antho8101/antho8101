@@ -1,3 +1,5 @@
+![banner](https://github.com/antho8101/.github/blob/main/Banni%C3%A8re%20Git.png?raw=true)
+
 # 👋 Hi, I'm Anthony Carayon
 
 **Entrepreneur, inventor, and designer**, I am the CEO of **AC Global Group**. Passionate about innovation and knowledge sharing, I help entrepreneurs maximize their chances of success by sharing my experience.
