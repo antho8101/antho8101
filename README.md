@@ -4,6 +4,8 @@
 
 **Entrepreneur, inventor, and designer**, I am the CEO of **AC Global Group**. Passionate about innovation and knowledge sharing, I help entrepreneurs maximize their chances of success by sharing my experience.
 
+My main activity consists of imagining and creating tech/dev/finance and real estate projects, then developing or reselling them to major groups.
+
 ---
 
 ### 🏢 **My Companies & Projects**
