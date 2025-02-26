@@ -40,7 +40,7 @@ Do you have a project or an idea? Book a **30-minute strategy call** to discuss 
 ### 📫 **Connect with Me**
 
 - **LinkedIn**: [Anthony Carayon](https://www.linkedin.com/in/anthony-carayon/)
-- **Figma**: [My Profile](https://figma.com)
+- **Figma**: [My Profile](https://www.figma.com/@Anthony_MkII)
 
 ---
 
